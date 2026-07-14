@@ -1,0 +1,14 @@
+{
+  "name": "Shift Log — Punch Terminal",
+  "short_name": "Shift Log",
+  "description": "Punch in/out time tracker with editable times and CSV reports",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1E33",
+  "theme_color": "#0B1E33",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
